@@ -6,7 +6,7 @@
   },
   "magisk": {
     "version": "Magisk-official-16.0",
-    "versionCode": "2018092901",
+    "versionCode": "2017092901",
     "link": "https://github.com/samyeh9999/MagiskBuilds/raw/master/Magisk-v16.0.zip",
     "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
     "md5": "96d3f1c85443811b1aead2993d71fd22"
